@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+# Quiz App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Quiz App! This is a fun and simple web application built with React that lets you test your knowledge by answering multiple-choice questions, earning points, and tracking your progress.
 
-## Available Scripts
+# What You Can Do
 
-In the project directory, you can run:
+- Start the Quiz: Hit the start button to begin answering questions.
+- Answer Questions: Pick the correct answer from a list of options.
+- Track Your Progress: See how many questions you’ve answered and your current score.
+- Watch the Timer: You’ve got limited time for each question—stay sharp!
+- Check Your Results: When you’re done, see your final score and your best high score.
+- Restart Anytime: Want to try again? Just hit the restart button.
 
-### `npm start`
+# How to Use It
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+-- Open the App:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- When you launch the app, you’ll see a welcome screen showing the number of questions.
+- Click "Start" to jump into the quiz.
 
-### `npm test`
+-- Answer Questions:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- You’ll get one question at a time with multiple-choice options.
+- Click the answer you think is right.
+- After answering, hit "Next Question" to move on.
 
-### `npm run build`
+-- Follow the Time and Progress:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- A timer at the top counts down every second.
+- If time runs out, the quiz ends automatically.
+- A progress bar shows how many questions you’ve done and your points.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+-- See Your Score:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Finish all questions or run out of time, and you’ll see a results screen.
+- It shows your points, your high score, and the maximum possible points.
 
-### `npm run eject`
+-- Start Over:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Click "Restart" to go back to the beginning and try again.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Cool Features
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Timed Challenge: You get 30 seconds per question, and the total time depends on how many questions there are.
+- Point System: Each question has its own points—answer correctly to rack up a big score.
+- High Score Tracking: The app remembers your best score so you can beat it next time.
+- Simple Design: It’s got a clean layout with a header, main section, and footer.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# Getting Started
 
-## Learn More
+- No setup needed! Just open the app in your browser (ask the creator for the link).
+- Make sure you’re online so the questions can load.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# What You’ll See
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Loading Screen: If it’s still preparing, you’ll see "Loading…".
+- Error Message: If something goes wrong, a little alert pops up.
+- Start Screen: Shows the number of questions and a start button.
+- Results Screen: Displays your score when you finish.
 
-### Code Splitting
+# Tips
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- Stay quick and focused so you don’t run out of time.
+- Want a challenge? Try to beat your high score!
 
-### Analyzing the Bundle Size
+# Feedback
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Like it? Got ideas to make it better? Let us know what you think!
